@@ -1,4 +1,4 @@
-package challenges;
+package easy;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
